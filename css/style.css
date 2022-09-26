@@ -1,0 +1,81 @@
+.title{
+    height: 100px;
+}
+
+.first{
+    color: blue;
+}
+
+.name{
+    color: green;
+}
+.namer{
+    color: red;
+}
+.wert{
+    color: orangered;
+}
+.warm{
+    color: blueviolet;
+}
+.base{
+    color: darkred;
+}
+.zad{
+    color: lightcoral;
+}
+.buz{
+    color: gold;
+}
+.cuz{
+    color: limegreen;
+}
+.blog{
+    color: navy;
+}
+.net{
+    background-color: aqua;
+}
+.img{
+    background-image: radial-gradient();
+}
+h2:hover{
+    color:blue;
+}
+a:hover{
+    color: darkred;
+}
+textarea~button{
+    color: gold;
+}
+button:hover{
+     color: black;
+}
+ul > li{
+    color: green;
+}
+img[src^="image/"]{
+    border: 10px solid royalblue;
+    padding: 20px;
+    margin: 40px;
+}
+h2{
+    background-color:red
+}
+body{
+    background-color: rgba(0, 255, 255, 0.829);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: justify;
+    
+}
+.table{
+    border: 10px solid royalblue;
+    font-size: 15px;
+    float: right;
+    padding: 20px;
+    margin: 40px;
+}
+.title{
+    background: radial-gradient( red 20% ,steelblue 50%,blue 80%);
+}
